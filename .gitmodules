@@ -1,0 +1,21 @@
+[submodule "Unity-0-The-basics-unity-tools"]
+	path = Unity-0-The-basics-unity-tools
+	url = git@github.com:Promswag/Unity-0-The-basics-unity-tools.git
+[submodule "Unity-1-3D-physics-Tags-Layers-and-Scene"]
+	path = Unity-1-3D-physics-Tags-Layers-and-Scene
+	url = git@github.com:Promswag/Unity-1-3D-physics-Tags-Layers-and-Scene.git
+[submodule "Unity-2-2D-environment-tiles-and-sprites"]
+	path = Unity-2-2D-environment-tiles-and-sprites
+	url = git@github.com:Promswag/Unity-2-2D-environment-tiles-and-sprites.git
+[submodule "Unity-3-Advanced-inputs-and-2D-GUI"]
+	path = Unity-3-Advanced-inputs-and-2D-GUI
+	url = git@github.com:Promswag/Unity-3-Advanced-inputs-and-2D-GUI.git
+[submodule "Unity-4-Animations-and-Sound"]
+	path = Unity-4-Animations-and-Sound
+	url = git@github.com:Promswag/Unity-4-Animations-and-Sound.git
+[submodule "Unity-5-Singleton-playerPrefs-and-coroutines"]
+	path = Unity-5-Singleton-playerPrefs-and-coroutines
+	url = git@github.com:Promswag/Unity-5-Singleton-playerPrefs-and-coroutines.git
+[submodule "Unity-6-Navmesh-light-sound-and-camera"]
+	path = Unity-6-Navmesh-light-sound-and-camera
+	url = git@github.com:Promswag/Unity-6-Navmesh-light-sound-and-camera.git
